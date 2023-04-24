@@ -17,7 +17,7 @@ function newItem(url, left, bottom) {
     object.addEventListener('dblclick', function() {
         object.remove()
     });  
-};
+}
 
 
 newImage('assets/green-character.gif', 100, 100);
